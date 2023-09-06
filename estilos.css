@@ -1,0 +1,28 @@
+/*asi se escribe un comentario*/
+body{
+    background-color:#d59437;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+h1, p {color:#000000;}
+h3{color:#000000;}
+
+.img1 { width: 400px;
+        height: 300px;
+        border-style:solid;
+        border-color:#0697ce;
+        border-width: 4px;
+        padding: 10px;
+        margin: 50px;
+}
+.img2 { width: 400px;
+        height: 300px;
+        border-style: solid;
+        border-color: #381604 ;
+        border-width: 4px;
+        padding:20px;
+        margin:50px ;
+    }
+small{ color: blue;
+
+}
